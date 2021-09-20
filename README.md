@@ -17,3 +17,4 @@
   2. Randomização da posição em que a comida surge;
   3. Aumento da cobrinha à medida que come o alimento;
   4. Mensagem de alerta game over quando a cobrinha esbarra nela mesma.
+
